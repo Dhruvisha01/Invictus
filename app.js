@@ -87,7 +87,7 @@ app.get('/about', function (req, res) {
     service: 'Gmail',
     auth: {
       user: "2019dhruvisha.mondhe@ves.ac.in", //Add your email
-      pass: "chOrnikal123", //Add your password
+      pass: "", //Add your password
     },
   });
 
